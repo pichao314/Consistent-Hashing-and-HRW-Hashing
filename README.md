@@ -62,7 +62,7 @@ Key distribution for 1k keys:
 
 ![alt](result.png)
 
-We can see that RHW has better load balance compare to CH.
+We can see that HRW has better load balance compare to CH.
 
 
 # Appendix
