@@ -1,6 +1,6 @@
-# Consistent Hashing and RHW Hashing
+# Consistent Hashing and HRW Hashing
 
-## Part 1. Rendezvous Hashing
+## Part 1. Rendezvous Hashing(Highest Random Weight)
 
 Full code in [here](RendezvousHashing.py)
 
